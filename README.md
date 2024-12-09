@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullsatck developer from India</h3>
 <image align="right" width=250px padding=50px src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtudnN4cXd5aWM0N29mYnh2dnBlOGowamNoanU2MWxzZDdraXc3ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
-- 🔭 I’m currently working on **QuickBite**
+- 🔭 I’m currently working on **Fragrencia**
 
 - 🌱 I’m currently learning **MEARN**
 
