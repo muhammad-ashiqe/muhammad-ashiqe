@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about building robust and scalable 
 
 ## 🔥 **What I Do**
 
-- **Frontend Development:** Crafting beautiful and responsive user interfaces using React, HTML, CSS, and Tailwind CSS.
+- **Frontend Development:** Crafting beautiful and responsive user interfaces using React, HTML, CSS, JavaScript, BootStrap and Tailwind CSS.
 - **Backend Development:** Designing RESTful APIs and server-side logic with Node.js and Express.
 - **Full-Stack Applications:** Bringing the best of both worlds together with seamless MERN stack integration.
 - **API Integration:** Leveraging third-party APIs to deliver dynamic and feature-rich applications.
@@ -41,7 +41,7 @@ A food delivery application designed with React. Includes:
 ## ✨ **Skills**
 
 ### **Frontend:**
-- React.js, HTML, CSS, JavaScript, Tailwind CSS
+- React.js, HTML, CSS, JavaScript, BootStrap, Tailwind CSS
 
 ### **Backend:**
 - Node.js, Express.js
