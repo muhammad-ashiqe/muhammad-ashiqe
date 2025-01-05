@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about building robust and scalable 
 
 ## 💻 **My Projects**
 
-### 🌟 [Fragrancia](#) (Currently Working On)
+### 🌟 [Fragrancia](#)
 An advanced MERN e-commerce platform for perfumes. Features include:
 - User and admin panels.
 - Order management and invoice downloads.
