@@ -16,28 +16,6 @@ Welcome to my GitHub profile! I'm passionate about building robust and scalable 
 
 ---
 
-## 💻 **My Projects**
-
-### 🌟 [Fragrancia](#)
-An advanced MERN e-commerce platform for perfumes. Features include:
-- User and admin panels.
-- Order management and invoice downloads.
-- Seamless shopping experience.
-
-### 🌟 [CoinWatch](#)
-A cryptocurrency tracking app using React and CoinGecko API. Key highlights:
-- Real-time price updates in multiple currencies.
-- Graphical analysis of coin prices.
-- Dark mode for better UX.
-
-### 🌟 [QuickBite](#)
-A food delivery application designed with React. Includes:
-- User-friendly interface.
-- Integrated cart and checkout process.
-- "Quick Bites, Big Delights!" tagline in action.
-
----
-
 ## ✨ **Skills**
 
 ### **Frontend:**
