@@ -36,7 +36,7 @@ with clean architecture and strong system design principles
 ## ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,dart,react,nodejs,express,nestjs,mongodb,mysql,prisma,flutter,firebase,git,github,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,react,nodejs,express,nestjs,mongodb,mysql,prisma,flutter,firebase,git,github,aws" />
 </p>
 
 ---
